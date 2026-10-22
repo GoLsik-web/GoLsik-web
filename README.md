@@ -32,6 +32,15 @@
   <code>Go</code> · <code>JavaScript</code> · <code>Python</code> · <code>PySide6</code> · <code>Electron</code> · <code>React Native</code> · <code>FFmpeg</code> · <code>OBS</code>
 </p>
 
+### `> principles`
+
+```text
+1  it works on my machine. and now on yours
+2  every bug is a feature until someone notices
+3  viewers request trash, the app plays it anyway
+4  Spotify rate limit is my final boss
+```
+
 <p align="center">
   <img src="assets/gl.gif" width="72" alt="GL">
 </p>
