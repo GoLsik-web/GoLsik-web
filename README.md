@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/gl.svg" alt="GL logo" width="260">
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="GoLsik — goal seek" width="100%">
 </p>
 
@@ -40,5 +44,5 @@
 ```
 
 <p align="center">
-  <img src="assets/logo.svg" width="72" alt="GoLsik logo">
+  <img src="assets/gl.svg" width="72" alt="GL">
 </p>
