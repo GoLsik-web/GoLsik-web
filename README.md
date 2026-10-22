@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gl.svg" alt="GL logo" width="260">
+  <img src="assets/gl.gif" alt="GL logo" width="260">
 </p>
 
 <p align="center">
@@ -44,5 +44,5 @@
 ```
 
 <p align="center">
-  <img src="assets/gl.svg" width="72" alt="GL">
+  <img src="assets/gl.gif" width="72" alt="GL">
 </p>
