@@ -19,12 +19,14 @@
 
 ### `> projects`
 
-| | |
-|---|---|
-| **[songrequest](https://github.com/GoLsik-web/songrequest)** | Song requests for Twitch. Viewers redeem channel points or donate, the track plays in your Spotify, and your own music resumes right where it stopped. Comes with a customizable OBS overlay. |
-| **[clip-polisher](https://github.com/GoLsik-web/clip-polisher)** | Turns a horizontal stream clip into a vertical 9:16 short: subtitles, layout and branding, rendered on the GPU. |
-| **[magicpack](https://github.com/GoLsik-web/magicpack)** | Website for the Magic Pack Minecraft server (1.21.1, NeoForge). |
-| **[songrequest-yandex](https://github.com/GoLsik-web/songrequest-yandex)** | The songrequest sibling that plays requests in Yandex Music. |
+<p align="center">
+  <a href="https://github.com/GoLsik-web/songrequest"><img src="assets/card-songrequest.svg" width="49%" alt="songrequest"></a>
+  <a href="https://github.com/GoLsik-web/clip-polisher"><img src="assets/card-clip-polisher.svg" width="49%" alt="clip-polisher"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/GoLsik-web/magicpack"><img src="assets/card-magicpack.svg" width="49%" alt="magicpack"></a>
+  <a href="https://github.com/GoLsik-web/songrequest-yandex"><img src="assets/card-songrequest-yandex.svg" width="49%" alt="songrequest-yandex"></a>
+</p>
 
 <img src="assets/divider.svg" width="100%">
 
